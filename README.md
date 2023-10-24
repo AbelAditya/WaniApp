@@ -1,0 +1,2 @@
+# WANI APP
+This app was made using flet. It allows you to upload files to transcribe and even allows you to transcribe recorded audio. It uses the whisper-medium model for S2T. The model is deployed locally allowing the app to function without internet connection. I was unable to add the model files. Once you run the model the program first downloads the model on you machine and then uses the cached file for all future requests.
